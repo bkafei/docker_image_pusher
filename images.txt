@@ -6,6 +6,7 @@ xhofe/alist:latest
 milvusdb/milvus:v2.4.5
 ghcr.io/open-webui/open-webui:cuda
 xixihahaliu01/qanything-linux:v1.5.1
+docker.elastic.co/elasticsearch/elasticsearch:8.13.2
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 #支持指定架构
