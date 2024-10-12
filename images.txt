@@ -5,7 +5,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 milvusdb/milvus:v2.4.5
 ghcr.io/open-webui/open-webui:cuda
-downloads.unstructured.io/unstructured-io/unstructured:latest
+xixihahaliu01/qanything-linux:v1.5.1
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 #支持指定架构
