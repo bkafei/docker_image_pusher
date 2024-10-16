@@ -5,8 +5,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 milvusdb/milvus:v2.4.5
 ghcr.io/open-webui/open-webui:cuda
-xixihahaliu01/qanything-linux:v1.5.1
-docker.elastic.co/elasticsearch/elasticsearch:8.13.2
+ghcr.io/open-webui/open-webui:dev
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 yanwk/comfyui-boot:cu124-cn-20241014
 ghcr.io/berriai/litellm:main-stable
