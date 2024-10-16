@@ -9,6 +9,7 @@ xixihahaliu01/qanything-linux:v1.5.1
 docker.elastic.co/elasticsearch/elasticsearch:8.13.2
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 yanwk/comfyui-boot:cu124-cn-20241014
+ghcr.io/berriai/litellm:main-stable
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
