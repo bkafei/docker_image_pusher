@@ -10,6 +10,7 @@ downloads.unstructured.io/unstructured-io/unstructured-api:latest
 yanwk/comfyui-boot:cu124-cn-20241014
 ghcr.io/berriai/litellm:main-stable
 flowiseai/flowise
+apache/tika:latest-full
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
