@@ -1,19 +1,13 @@
 nginx
 #支持私库
-mysql:latest
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-milvusdb/milvus:v2.4.5
 ghcr.io/open-webui/open-webui:cuda
-ghcr.io/open-webui/open-webui:dev
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
 yanwk/comfyui-boot:cu124-cn-20241014
-ghcr.io/berriai/litellm:main-stable
 flowiseai/flowise
 apache/tika:latest-full
 chromadb/chroma
 justsong/one-api
-ghcr.io/remsky/kokoro-fastapi-gpu
+ghcr.io/remsky/kokoro-fastapi-gpu:v0.2.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
