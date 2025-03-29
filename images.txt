@@ -6,6 +6,7 @@ apache/tika:latest-full
 chromadb/chroma
 justsong/one-api
 xprobe/xinference:v0.12.3
+chatimage/chatchat
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
