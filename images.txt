@@ -2,12 +2,10 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 ghcr.io/open-webui/open-webui:cuda
-yanwk/comfyui-boot:cu124-cn-20241014
-flowiseai/flowise
 apache/tika:latest-full
 chromadb/chroma
 justsong/one-api
-ghcr.io/remsky/kokoro-fastapi-gpu:v0.2.1
+xprobe/xinference:v0.12.3
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
